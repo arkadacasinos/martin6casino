@@ -9,6 +9,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="dark bg-[#0f121d]">
       <head>
+        <meta name="yandex-verification" content="f822680c490d1989" />
         <title>Martin Casino официальный сайт — вход и рабочее зеркало Мартин Казино онлайн</title>
         <meta name="description" content="Играть в Martin Casino на официальном сайте: рабочее актуальное зеркало Мартин Казино, мгновенный вход в личный кабинет, бонусы до 225% и 600 фриспинов, быстрые выплаты и лицензионные слоты онлайн." />
         <meta name="robots" content="index, follow" />
