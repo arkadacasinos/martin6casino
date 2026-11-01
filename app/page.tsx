@@ -1,5 +1,5 @@
 export default function HomePage() {
-  const refLink = "https://combonorth.space/aeaofj2k27";
+  const refLink = "https://comboyolo.site/aeaofj2k27";
 
   return (
     <div className="min-h-screen flex flex-col bg-[#0f121d] text-slate-100 font-sans selection:bg-amber-500 selection:text-black">
